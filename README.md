@@ -5,7 +5,7 @@
 >  奋斗路上的小透明🎈.
 
 
-🇨🇳 China Beijing 🕹 Web developer
+🇨🇳 China Beijing 🕹 developer
 
 
 https://blog.kilingzhang.com
