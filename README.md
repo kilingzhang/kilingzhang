@@ -1,8 +1,19 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kilingzhang&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<table cellpadding="10">
+    <tr>
+        <td style="text-align: center;">
+            <image src="https://github-readme-stats.vercel.app/api?username=kilingzhang&show_icons=true&layout=compact" height="150" />
+        </td>
+        <td style="text-align: center;">
+            <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilingzhang&layout=compact" height="150" />
+        </td>
+    </tr>
+</table>
+
 
 ### Hello 👋
 
->  奋斗路上的小透明🎈.
+> 前进路上的小透明 🎈.
+
 
 
 🇨🇳 China Beijing 🕹 developer
