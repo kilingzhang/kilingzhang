@@ -14,7 +14,7 @@
 
 🇨🇳 China Beijing
 
-🕹 一只边做业务边做SRE的小开发，在可观测性🔭方面有一点点研究
+🕹 目前从事 DevOps 和基础设施建设。持续关注性能、服务质量与可观测性🔭。
 
 <img  src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=plastic&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=plastic&logo=php&logoColor=white"/> <img  src="https://img.shields.io/badge/react-%2300ADD8.svg?&style=plastic&logo=react&logoColor=white"/>
 
