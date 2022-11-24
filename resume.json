@@ -1,1 +1,136 @@
-
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
+  "avatar": {
+    "hidden": true
+  },
+  "profile": {
+    "name": "kilingzhang",
+    "email": "i@kilingzhang.dev",
+    "mobile": "176 **** ****",
+    "github": "https://github.com/kilingzhang",
+    "blog": "https://blog.kilingzhang.dev",
+    "workExpYear": "",
+    "workPlace": "",
+    "positionTitle": "研发工程师"
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2015.09.01",
+        "2019.06.30"
+      ],
+      "school": "湘潭大学",
+      "major": "软件工程",
+      "academic_degree": "本科",
+      "dataIndex": 0
+    }
+  ],
+  "awardList": [
+    {
+      "award_time": "2022.01",
+      "award_info": "微博·21年度·优秀员工"
+    },
+    {
+      "award_info": "微博增值业务·21年中表彰·优秀员工",
+      "award_time": "2021.09",
+      "dataIndex": 0
+    },
+    {
+      "award_time": "2020.01",
+      "award_info": "微博增值技术部·19年度·最佳新人",
+      "dataIndex": 1
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "新浪微博",
+      "department_name": "微博增值技术部-微博会员及内容增值",
+      "work_time": [
+        "2020.03",
+        null
+      ],
+      "work_desc": "1. 主导微博增值技术部可观测能力建设，担任「一站式可观测平台」项目负责人。\n2. 负责微博增值技术部的Go语言生态建设，参与内部框架、公共基础库研发，维护与推广。\n3. 负责会员团队支付相关功能开发建设与维护。\n4. 承担会员团队运维保障工作，主导团队服务容器化、从传统物理机部署全面拥抱k8s。"
+    },
+    {
+      "company_name": "新浪微博",
+      "department_name": "微博增值技术部-电商团队",
+      "work_time": [
+        "2019.07",
+        "2020.03"
+      ],
+      "work_desc": "1. 负责电商、时尚美妆日常需求开发，支持红人周，双十一，双十二等活动需求。\n2. 负责活动相关需求降本提效，产出「低代码活动平台」。\n3. 参与电商团队基础能力建设，完善告警能力，产出「统一告警平台」。"
+    },
+    {
+      "company_name": "新浪微博",
+      "department_name": "商业平台及产品部",
+      "work_time": [
+        "2018.06",
+        "2019.03"
+      ],
+      "work_desc": "1. 研发实习生。支持日常活动需求开发。\n2. 负责产品运营相关数据需求支持，为提高自身人效，产出「微博流数据分析平台」，实现产品运营数据需求全自助。\n3. 实习考核。设计并实现在千万用户量级下，用户、feed、转评赞、关注等微博核心功能。"
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "Go",
+      "skill_desc": "",
+      "skill_level": 80
+    },
+    {
+      "skill_name": "PHP",
+      "skill_desc": "",
+      "skill_level": 80
+    },
+    {
+      "skill_name": "React & Vue",
+      "skill_desc": "",
+      "skill_level": 60
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "一站式可观测平台",
+      "project_role": "项目负责人",
+      "project_time": "2021.08 - 至今",
+      "project_desc": "基于OpenTelemetry生态与ClickHouse，设计并研发低成本、高收益的，集Trace、Metric、Logging于一体的「一站式可观测平台」。帮助开发同学快速发现并定位问题故障、性能瓶颈，减少MTTR，提升服务质量。",
+      "project_content": "\n1. 负责项目从0到1的调研、设计、开发，落地与推广。 \n2. 基于一站式可观测平台。完善会员团队日常服务保障机制，优化服务及性能瓶颈，减少MTTR。\n3. 产品持续迭代，现已由部门级推广至全公司，得到了接入方的一致好评，并受邀参加了GopherChina 2022大会，进行相关分享。"
+    },
+    {
+      "project_name": "支付相关基础功能建设",
+      "project_role": "核心开发者",
+      "project_time": "2020.03 - 至今",
+      "project_desc": "为微博会员及内容增值团队提供统一的支付、订单、营销、结算服务。防止多业务之间重复造轮子，浪费人力。",
+      "project_content": "\n1. 主导建设了统一博主结算能力，支持多业务接入，推动各业务方统一规范流程，减少重复开发。\n2. 负责IAP、微币、三方支付的接入工作。\n3. 负责群红包、卡劵等营销工具的开发与维护。"
+    },
+    {
+      "project_name": "低代码活动平台",
+      "project_role": "后端项目负责人",
+      "project_time": "2019.10 - 2021.03",
+      "project_desc": "电商日常活动低代码活动平台。面向产品运营人员，通过简单配置组合生成日常活动。帮助运营团队快速尝试活动方案，提高营收。",
+      "project_content": "\n1. 通过解耦活动的展示方式、用户操作事件、任务策略、奖励机制等活动核心流程，根据配置化模版灵活组合，自动生成常规电商活动。\n2. 支持配套数据统计、分析面板，实现活动闭环。\n3. 负责新活动玩法完善。"
+    },
+    {
+      "project_name": "统一告警平台",
+      "project_role": "项目负责人",
+      "project_time": "2019.11 - 至今",
+      "project_desc": "「统一告警平台」拆解事件上报与告警策略。策略由后台统一配置，灵活修改。支持评级控制、信息聚合、告警风暴抑制、多通知渠道、统计等功能。",
+      "project_content": "\n1. 负责项目从0到1的调研、设计、开发。\n2. 在电商团队落地，改造业务硬编码，帮助团队提升迅速发现问题能力。"
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "\uD83D\uDD79 目前主要从事DevOps和基础设施建设相关工作。持续关注可观测性、高性能、服务质量保障 \uD83D\uDD2D。\n❤️ 自驱自驱型研发工程师，热衷技术交流与分享、参与开源社区建设。"
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
