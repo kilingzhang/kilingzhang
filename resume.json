@@ -18,7 +18,7 @@
     "github": "https://github.com/kilingzhang",
     "blog": "https://blog.kilingzhang.dev",
     "workExpYear": "",
-    "workPlace": "",
+    "workPlace": "广州、深圳",
     "positionTitle": "研发工程师"
   },
   "educationList": [
@@ -127,7 +127,7 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "\uD83D\uDD79 目前主要从事DevOps和基础设施建设相关工作。持续关注可观测性、高性能、服务质量保障 \uD83D\uDD2D。\n❤️ 自驱自驱型研发工程师，热衷技术交流与分享、参与开源社区建设。"
+    "aboutme_desc": "\uD83D\uDD79 目前主要从事DevOps和基础设施建设相关工作。持续关注可观测性、高性能、服务质量保障 \uD83D\uDD2D。\n❤️ 自驱型研发工程师，热衷技术交流与分享、参与开源社区建设。"
   },
   "theme": {
     "color": "#2f5785",
