@@ -81,17 +81,17 @@
   "skillList": [
     {
       "skill_name": "Go",
-      "skill_desc": "",
+      "skill_desc": "Go",
       "skill_level": 80
     },
     {
       "skill_name": "PHP",
-      "skill_desc": "",
+      "skill_desc": "PHP",
       "skill_level": 80
     },
     {
       "skill_name": "React & Vue",
-      "skill_desc": "",
+      "skill_desc": "React & Vue",
       "skill_level": 60
     }
   ],
