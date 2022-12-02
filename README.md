@@ -9,7 +9,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=kilingzhang.kilingzhang" alt="visitor badge"/>    
 
 
-[kilingzhang.dev](https://kilingzhang.dev)
+[07is.me](https://07is.me)
 
 <div align="center"><h2 align="center" style="margin: 5px 10px;"><u><b>Github Stats</u></b></h2>
 <table cellpadding="10">
