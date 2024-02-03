@@ -2,7 +2,7 @@
 
 🇨🇳 China Shenzhen
 
-🕹 目前从事RTB广告相关业务开发与可观测性、基础设施建设相关工作。持续关注可观测性、高性能、服务质量保障 🔭。
+🕹 目前从事RTB广告相关业务开发与可观测性、基础设施建设相关工作。持续关注可观测性、高性能、服务质量保障 （Currently engaged in the development of RTB advertising-related business and work related to observability and infrastructure construction. Continuously focusing on observability, high performance, and service quality assurance） 🔭.
 
 <img  src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=plastic&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=plastic&logo=php&logoColor=white"/> <img  src="https://img.shields.io/badge/react-%2300ADD8.svg?&style=plastic&logo=react&logoColor=white"/>
 
